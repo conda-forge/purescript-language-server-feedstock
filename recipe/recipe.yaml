@@ -1,5 +1,5 @@
 context:
-  version: "0.18.4"
+  version: "0.18.5"
 
 package:
   name: purescript-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/purescript-language-server/-/purescript-language-server-${{ version }}.tgz
-  sha256: ff7523d15d2a8093a788a8cf22c8b82ad778315f667cff1086b747465ad11342
+  sha256: 2b4a55ab4ee71dda3f9feb290437dcf2b8b083344cab8490089d6caab123341d
 
 build:
   number: 0
